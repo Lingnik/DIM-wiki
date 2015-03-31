@@ -6,7 +6,7 @@
 
 + Add the plugins
 
-    `$ sudo phonegap plugin add org.apache.cordova.inappbrowser`
+    `$ phonegap plugin add org.apache.cordova.inappbrowser`
 
 + Add build target
 
