@@ -1,13 +1,13 @@
 #iOS phonegap build
 
 + Install phonegap
-    $ sudo npm install -g phonegap
+    `$ sudo npm install -g phonegap`
 + Add the plugins
-    $ sudo phonegap plugin add org.apache.cordova.inappbrowser
+    `$ sudo phonegap plugin add org.apache.cordova.inappbrowser`
 + Add build target
-    $ phonegap platform add ios
+    `$ phonegap platform add ios`
 + Build
-    $ phonegap build ios
+    `$ phonegap build ios`
 + Emulate
-    $ phonegap emulate ios
+    `$ phonegap emulate ios`
 ###
