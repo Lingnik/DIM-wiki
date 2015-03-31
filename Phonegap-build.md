@@ -4,13 +4,13 @@
 
     `$ sudo npm install -g phonegap`
 
-+ Add the plugins
-
-    `$ phonegap plugin add org.apache.cordova.inappbrowser`
-
 + Add build target
 
     `$ phonegap platform add ios`
+
++ Add the plugins
+
+    `$ phonegap plugin add git://git.apache.org/cordova-plugin-inappbrowser.git`
 
 + Build
 
