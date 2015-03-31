@@ -14,7 +14,7 @@
 
 + Build
 
-    `$ phonegap build ios`
+    `$ phonegap build`
 
 + Emulate
 
