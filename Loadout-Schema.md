@@ -7,8 +7,8 @@ Loadouts are preserved in a data store that is appropriate for the platform.
 
 ## Schema
 
-    `{
+    {
         id: string<guid>,
         name: string,
         items: Array<item>
-    }`
+    }
