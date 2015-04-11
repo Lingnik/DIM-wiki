@@ -1,0 +1,1 @@
+Loadouts are the scheme used to let users define collections of items that can be assigned to a guardian.  
