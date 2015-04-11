@@ -12,7 +12,8 @@ Loadouts are preserved in a data store that is appropriate for the platform.
       name: string,
       items: Array<{ 
         id: string, 
-        hash: number 
+        hash: number,
+        amount: number
       }>,
       equip: Array<id:string>,
       version: string
