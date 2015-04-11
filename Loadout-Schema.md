@@ -10,8 +10,11 @@ Loadouts are preserved in a data store that is appropriate for the platform.
     {
       id: string<guid>,
       name: string,
-      items: Array<ids>,
-      equip: Array<ids>,
+      items: Array<{ 
+        id: number, 
+        hash: number 
+      }>,
+      equip: Array<number>,
       version: string
     }
 
