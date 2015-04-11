@@ -8,13 +8,13 @@ Loadouts are preserved in a data store that is appropriate for the platform.
 ### Schema v1.1
 
     {
-      id: string<guid>,
+      id: string,
       name: string,
       items: Array<{ 
-        id: number, 
+        id: string, 
         hash: number 
       }>,
-      equip: Array<number>,
+      equip: Array<id:string>,
       version: string
     }
 
@@ -22,5 +22,5 @@ Loadouts are preserved in a data store that is appropriate for the platform.
 
     {
       name: string,
-      items: Array<ids>
+      items: Array<id:string>
     }
