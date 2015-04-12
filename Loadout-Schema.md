@@ -10,6 +10,7 @@ Loadouts are preserved in a data store that is appropriate for the platform.
     {
       id: string,
       name: string,
+      class: number,
       items: Array<{ 
         id: string, 
         hash: number,
