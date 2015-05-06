@@ -5,7 +5,7 @@ Loadouts are preserved in a data store that is appropriate for the platform.
 
 * Chrome Extension: Chrome Storage API
 
-### Schema v1.1
+### Schema v2.0
 
     {
       id: string,
