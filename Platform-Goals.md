@@ -4,5 +4,3 @@
 2. Item types in each store should be easy to reach.
   * On mobile, a player should be able to quickly move through their inventory without many swipes.
   * On desktop, a player should be able to quickly move through their inventory without significant scrolling or mouse movement.
-3. ?
-4. Profit
