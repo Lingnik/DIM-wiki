@@ -10,7 +10,18 @@ TODO
 
 ## Platform Support
 
-TODO
+* Browsers
+  * Chrome Extension
+  * Firefox (Planned)
+  * Edge (Planned)
+
+* Mobile Platforms
+  * iOS (In Development)
+  * Android (In Development)
+  * Windows Mobile (In Development)
+
+* Desktop Platforms
+  * Windows (Planned)
 
 ## Developer Setup
 
