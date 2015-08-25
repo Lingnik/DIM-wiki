@@ -20,15 +20,15 @@
 
 ## Items
 
-1. Item thumnbail must show Elemental damage, Upgrade completion and version;
-2. Player shall see what item is currently equipped/in his inventory;
-3. Player must be able to Move and/or Equip any items he possess;
+1. Item thumbnail must show elemental damage, upgrade completion and version;
+2. Player shall see what items are currently equipped/in his inventory;
+3. Player must be able to move and/or equip any items he possess;
 
 (Idea) Players could have "Favorite" items that are displayed first regardless of sorting.
 
 ## Loadouts
 
-1. Player should be able to equip a configured Loadout from the character view.
+1. Player should be able to equip a configured loadout from the character view.
 
 ## Search
 
