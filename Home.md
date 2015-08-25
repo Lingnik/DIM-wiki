@@ -6,7 +6,9 @@
 
 ## Resources
 
-TODO
+* Introduction
+* Feature Guide
+* Media and Presentations
 
 ## Platform Support
 
@@ -25,8 +27,6 @@ TODO
 
 ## Developer Setup
 
-TODO
-
-## Contribution
-
-TODO
+* Contribution Guide
+* Development Milestones
+* Modifying DIM
