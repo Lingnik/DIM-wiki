@@ -12,16 +12,16 @@ TODO
 
 * Browsers
   * Chrome Extension
-  * Firefox (Planned)
-  * Edge (Planned)
+  * Firefox _(Planned)_
+  * Edge _(Planned)_
 
 * Mobile Platforms
-  * iOS (In Development)
-  * Android (In Development)
-  * Windows Mobile (In Development)
+  * iOS _(In Development)_
+  * Android _(In Development)_
+  * Windows Mobile _(In Development)_
 
 * Desktop Platforms
-  * Windows (Planned)
+  * Windows _(Planned)_
 
 ## Developer Setup
 
