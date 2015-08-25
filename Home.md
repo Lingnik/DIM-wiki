@@ -16,12 +16,10 @@
   * Chrome Extension
   * Firefox _(Planned)_
   * Edge _(Planned)_
-
 * Mobile Platforms
   * iOS _(In Development)_
   * Android _(In Development)_
   * Windows Mobile _(In Development)_
-
 * Desktop Platforms
   * Windows _(Planned)_
 
