@@ -27,11 +27,7 @@
 
 ## The Team
 
-## About the Team
-
 DIM is managed by a team of individuals from the Destiny community.
-
-### Developers
 
 [![kyleshay](https://avatars3.githubusercontent.com/u/424158?v=3&s=75)]
 (https://github.com/kyleshay)
