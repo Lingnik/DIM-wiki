@@ -9,4 +9,4 @@ guidelines before reporting a new DIM issue or open a pull request.
 
 If you have any questions about DIM usage or want to share some information with the DIM community, please go to:
 
-[DIM Sub-Reddit](http://destinyitemmanager.reddit.com)
+[DIM Subreddit](http://destinyitemmanager.reddit.com)
