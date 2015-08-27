@@ -15,24 +15,31 @@
 ## Characters
 
 1. Quick switch between characters (1+ swipe or 2 taps);
-2. Character selection must be inline with character identity in Destiny (Emblem, race, gender, etc.);
+2. Character display must be inline with character identity in Destiny (Emblem, race, gender, etc.);
 3. Light level must be displayed (helps differenciate characters with same class/race/emblem).
 
 ## Items
 
 1. Item thumbnail must show elemental damage, upgrade completion and version;
 2. Player shall see what items are currently equipped/in his inventory;
-3. Player must be able to move and/or equip any items he possess;
+3. Player must be able to move and/or equip any items he possess.
 
-(Idea) Players could have "Favorite" items that are displayed first regardless of sorting.
+(Proposed) Players could have "Favorite" items that are displayed first regardless of sorting.
 
 ## Loadouts
 
-1. Player should be able to equip a configured loadout from the character view.
+1. Player should be able to equip a loadout from the character view.
+2. Player should be able to save/edit/delete loadouts.
 
 ## Search
 
+1. Player should be able to search item by name.
+
 ## Filters
+
+1. Player should be able to filter the items in the character view using different filters.
+
+(Proposed) Filters could be saved so that it can be re-used later on.
 
 ## Settings
 
