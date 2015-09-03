@@ -3,7 +3,7 @@ We have six Blacksmith Shaders to give away to six lucky winners of our giveaway
 There are two ways to enter:
 
 1. Follow [@ThisIsDIM](http://twitter.com/ThisIsDIM) on Twitter and retweet our giveaway tweet.
-2. Show off your characters in their best Year One gear!  Follow [@ThisIsDIM](http://twitter.com/ThisIsDIM) on Twitter and tweet a screenshot of DIM with the hashtags [#MyYearOneGear #DIM](https://twitter.com/search?f=tweets&q=%23MyYearOneGear%20%23DIM) and mention [@ThisIsDIM](http://twitter.com/ThisIsDIM).  Here's an example.
+2. Show off your characters in their best Year One gear!  Follow [@ThisIsDIM](http://twitter.com/ThisIsDIM) on Twitter and tweet a screenshot of DIM with the status, "This is my #YearOneGear using @ThisIsDIM".  Here's an [example](https://twitter.com/RickCasey/status/639230070440202240).
 
 We will give away two shaders on three occasions.  They are:
 
