@@ -9,7 +9,7 @@ We will give away two shaders on three occasions.  They are:
 
 * Two on Friday, Sept. 4th at 8PM Central. 
 * Two on Sunday, Sept. 6th at 8PM Central.  
-* Two on Tuesday, Sept. 8th at 8PM Central.
+* Two on Wednesday, Sept. 9th at 8PM Central.
 
 **Fine Print**
 * We will select a winner from the entries on Twitter. 
