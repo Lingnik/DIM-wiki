@@ -11,7 +11,7 @@ We will give away two shaders on three occasions.  They are:
 * Two on Sunday, Sept. 6th at 8PM Central.  
 * Two on Tuesday, Sept. 8th at 8PM Central.
 
-We will select a winner at random from the entries on Twitter. We will choose each winner from the entry pool during the giveaway period, Sept. 2nd through Sept 8th. You can only win once.  They will be announced on [@ThisIsDIM](http://twitter.com/ThisIsDIM) after the winners have been contacted.
+We will select a winner at random from the entries on Twitter. We will choose each winner from the entry pool during the giveaway period, Sept. 2nd through Sept 8th. You can only win once.  They will be announced on [@ThisIsDIM](http://twitter.com/ThisIsDIM) after the winners have been contacted via DM.
 
 We look forward to seeing all of your characters!
 
