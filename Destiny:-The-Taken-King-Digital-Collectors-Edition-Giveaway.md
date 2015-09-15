@@ -1,6 +1,11 @@
-We're going to give away a copy of Destiny: The Taken King Digital Collectors Edition tomorrow morning during [Datto's The Taken King Launch Stream](http://www.twitch.tv/itsdatto).  Details about the giveaway will be announced on stream starting at 2AM Pacific. We will also post the giveaway details on [@ThisIsDIM](http://twitter.com/ThisIsDIM) at the same time. 
+We'll be giving away a copy of Destiny: The Taken King Digital Collectors Edition today on Datto's Twitch Stream of the TTK Launch. To enter the giveaway, all you have to do is 
 
-Those who meet the yet to be announced criteria will be eligible for the drawing that will be held at 2PM Eastern. The winners will be announced on stream and our Twitter. 
+1. Follow [@ThisIsDIM](http://twitter.com/ThisIsDIM), and 
+2, Tweet of a screen shot of DIM with your characters using the hashtag #DIMYearTwo.  
 
-More details to follow. Check back after the Taken King arrives. 
-Good luck Guardians. 
+We really want to get this copy of TTK into the hands of a Guardian today.  Your window of opportunity to post a screenshot and follow @ThisIsDIM will be from 2AM to 11AM Pacific.  This will be a quick one Guardians as the give away will only last 9 hours.  
+
+We will then draw a winner form the the pool of users who have successful entries at 11AM Pacific, and announce the winner on Datto's stream and on our twitter, @ThisIsDIM.
+
+Thanks for joining us at the start of Year Two and we'll see you in game.
+The team at DIM.
