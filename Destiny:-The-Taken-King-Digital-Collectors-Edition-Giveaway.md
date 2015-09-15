@@ -1,4 +1,4 @@
-We'll be giving away a copy of Destiny: The Taken King Digital Collectors Edition today on Datto's Twitch Stream of the TTK Launch. To enter the giveaway, all you have to do is 
+We'll be giving away a copy of Destiny: The Taken King Digital Collectors Edition today on [Datto's Twitch Stream of the TTK Launch](http://www.twitch.tv/itsDatto). To enter the giveaway, all you have to do is 
 
 1. Follow [@ThisIsDIM](http://twitter.com/ThisIsDIM), and 
 2. Tweet of a screen shot of DIM with your characters using the hashtag #DIMYearTwo.  
