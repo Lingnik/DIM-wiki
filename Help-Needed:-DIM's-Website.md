@@ -11,7 +11,9 @@ DIM's approach is 'straight-forward and powerful'.  We would like to see that ae
 
 We would prefer that a single page website that is succinct and attractive. For example, this [demo] is a layout that presents information in chunks separated by section on a single page. We're not asking for animated website with transitions and parallax images. That's a distraction. We want to provide users with the necessary information and let them move on to using DIM or getting help if they need it.
 
-Please contact us on [Twitter] or sign up for our [Slack] reach out to [Goose].
+We do have icons, marketing materials, and assets to help a designer develop the website, but we're also happy to give creative freedom to let someone bring their approach into the website.  
+
+Please contact us on [Twitter] or sign up for our [Slack] and reach out to [Goose].
 
 [Goose]: https://thisisdim.slack.com/team/goose 'Goose'
 [Slack]: https://thisisdimslack.stamplayapp.com
