@@ -1,6 +1,6 @@
-We're looking for volunteers to help build a simple website to host at http://destinyitemmanager.com.  We've got all hands working on the application that there is no one to build the website.  
+We're looking for volunteers to help build a simple website to host at http://destinyitemmanager.com.  We've got all hands working on improving v3 and developing v4 at the moment, and we need your help to build a website for DIM that helps us share our message.
 
-Our goal for the website is to:
+Our goals for the website are:
 
 * Inform users of the features that are available in DIM and how they can improve a Guardian's experience while playing Destiny
 * Document locations to download DIM
