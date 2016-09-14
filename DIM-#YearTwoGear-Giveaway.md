@@ -17,7 +17,7 @@ To win, we need your help. You may know and love DIM, but there are many Guardia
 There are two ways to enter, each with its own unique entry, so let's talk details.
 
 ### Step One: Retweet the contest.
-Follow [@ThisIsDIM](http://twitter.com/ThisIsDIM) on Twitter and retweet our [giveaway tweet](https://twitter.com/intent/retweet?tweet_id=639234613068603392).
+Follow [@ThisIsDIM](http://twitter.com/ThisIsDIM) on Twitter and retweet our [giveaway tweet](https://twitter.com/intent/retweet?tweet_id=776071217073774592).
 
 ### Step Two: Show off your #YearTwoGear with DIM
 This is our favorite because we get to see so many Guardians. 
