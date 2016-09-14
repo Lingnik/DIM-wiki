@@ -1,4 +1,6 @@
-Since September 2015, players have plundered the Dreadnaught of its secrets, sent the husk of Oryx towards Saturn, and worked together to unlock the path to Tier 12.  During this time, Destiny Item Manager has always been here to help you enjoy more of your time playing Destiny. With DIM, you can find the right combination of gear to unlock T12 with the best perks, clean out your vault with our filtering and search, and automatically move engrams to the vault while playing strikes. We have much more planned for Year Three, but now is the time to close out Destiny's Year Two with a celebration of all that we've achieved.
+Since September 2015, players have plundered the Dreadnaught of its secrets, sent the husk of Oryx towards Saturn, and worked together to unlock the path to Tier 12.  During this time, Destiny Item Manager has always been here to help you enjoy more of your time playing Destiny. 
+
+With DIM, you can find the right combination of gear to unlock T12 with the best perks, clean out your vault with our filtering and search, and automatically move engrams to the vault while playing strikes. We have much more planned for Year Three, but now is the time to close out Destiny's Year Two with a celebration of all that we've achieved.
 
 ## The Giveaway
 
