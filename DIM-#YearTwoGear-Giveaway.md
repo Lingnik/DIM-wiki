@@ -27,6 +27,7 @@ We will give away the Blacksmith shader on Monday, Sept 19th at 10PM Central.
 * We will choose each winner from the entry pool during the giveaway period, Sept. 15th through Sept 19th. 
 * You can only win once.
 * Winners for the shirts must have a shipping address in the United States.
+* We will do our best to match shirts sizes to your desire.  We have a limited number of shirts per size.
 * Winner for the Blacksmith Shader must live on Earth, Moon, Mercury, Venus, Mars, The Reef, or Saturn.
 * Winners will be announced on [@ThisIsDIM](http://twitter.com/ThisIsDIM) after the winners have been contacted via DM.
 
