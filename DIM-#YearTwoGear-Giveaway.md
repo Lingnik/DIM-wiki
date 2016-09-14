@@ -1,28 +1,31 @@
-We have six DIM Tee Shirts to give away to six lucky winners of our giveaway, and one Blacksmith Shader.
+Let's celebrate the close of Destiny's Year Two with a celebration of all that we've gathered. We all know that the Cryptarch's can be bittersweet, bless their heart...  So the team at DIM have six DIM t-shirts and one Blacksmith Shader to give away to a few lucky Guardians. This giveaway also helps us by spreading the word about DIM across twitter.  There are many Guardians that travel to the Vault to prepare their characters.  We can help them play more Destiny, but first we need your help.
 
-There are two ways to enter. Each is a unique entry. Let's talk details.
+There are two ways to enter, each with its own unique entry, so let's talk details.
 
-## Step One: Follow DIM
-Follow [@ThisIsDIM](http://twitter.com/ThisIsDIM) on Twitter. 
+## Step One: Retweet the contest.
+Follow [@ThisIsDIM](http://twitter.com/ThisIsDIM) on Twitter and retweet our [giveaway tweet](https://twitter.com/intent/retweet?tweet_id=639234613068603392).
 
-## Step Two: Ways to enter our Giveaway
-1. Retweet our [giveaway tweet](https://twitter.com/ThisIsDIM/status/639237265944899584).
-2. Show off your characters in their best Year Two gear!  Tweet a screenshot of DIM with the status, "**This is my This is my #Destiny #YearTwoGear with @ThisIsDIM - Giveaway Info http://bit.ly/1ECmJtF**".  Here's an [example](https://twitter.com/RickCasey/status/639234613068603392).
+## Step Two: Show off your #YearTwoGear with DIM
+This is our favorite because we get to see so many Guardians. Follow [@ThisIsDIM](http://twitter.com/ThisIsDIM) on Twitter and tweet a screenshot of your characters in DIM with the status, "**This is my #Destiny #YearTwoGear with @ThisIsDIM - Giveaway Info http://bit.ly/2cuO7jI**".  Here's an [example](https://twitter.com/RickCasey/status/639234613068603392).
 
-We will give away two shaders on three occasions.  They are:
+## Schedule
 
-* Two on Friday, Sept. 4th at 8PM Central. 
-* Two on Sunday, Sept. 6th at 8PM Central.  
-* Two on Wednesday, Sept. 9th at 8PM Central.
+We will give away two shirts on three occasions.  They are:
 
-**Fine Print**
+* Two on Thursday, Sept. 15th at 10PM Central. 
+* Two on Saturday, Sept. 17th at 10PM Central.  
+* Two on Monday, Sept. 19th at 10PM Central.
+
+We will give away the Blacksmith shader on Monday, Sept 19th at 10PM Central.
+
+## Fine Print
 * We will select a winner from the entries on Twitter. 
-* We will choose each winner from the entry pool during the giveaway period, Sept. 2nd through Sept 8th. 
-* You can only win once.  
-* They will be announced on [@ThisIsDIM](http://twitter.com/ThisIsDIM) after the winners have been contacted via DM.
+* We will choose each winner from the entry pool during the giveaway period, Sept. 15th through Sept 19th. 
+* You can only win once.
+* Winners for the shirts must have a shipping address in the United States.
+* Winner for the Blacksmith Shader must live on Earth, Moon, Mercury, Venus, Mars, The Reef, or Saturn.
+* Winners will be announced on [@ThisIsDIM](http://twitter.com/ThisIsDIM) after the winners have been contacted via DM.
 
-We look forward to seeing all of your characters!
-
-Thanks for playing and good luck Guardians!
+We look forward to seeing all of your screenshots.  Thanks for playing and good luck Guardians!
 
 The Team at DIM
