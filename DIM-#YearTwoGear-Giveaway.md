@@ -8,7 +8,9 @@ There are two ways to enter, each with its own unique entry, so let's talk detai
 Follow [@ThisIsDIM](http://twitter.com/ThisIsDIM) on Twitter and retweet our [giveaway tweet](https://twitter.com/intent/retweet?tweet_id=639234613068603392).
 
 ## Step Two: Show off your #YearTwoGear with DIM
-This is our favorite because we get to see so many Guardians. Follow [@ThisIsDIM](http://twitter.com/ThisIsDIM) on Twitter and tweet a screenshot of your characters in DIM with the status, "**This is my #Destiny #YearTwoGear with @ThisIsDIM - Giveaway Info http://bit.ly/2cuO7jI**".  Here's an [example](https://twitter.com/RickCasey/status/639234613068603392).
+This is our favorite because we get to see so many Guardians. 
+
+Follow [@ThisIsDIM](http://twitter.com/ThisIsDIM) on Twitter and tweet a screenshot of your characters in DIM with the status, "**This is my #Destiny #YearTwoGear with @ThisIsDIM - Giveaway Info http://bit.ly/2cuO7jI**".  Here's an [example](https://twitter.com/RickCasey/status/639234613068603392).
 
 ## Schedule
 
