@@ -1,10 +1,10 @@
 Let's close Destiny's Year Two with a celebration of all that we've earned! 
 
-We all know that the Cryptarchs can be bittersweet, bless their hearts... So the team at DIM will do our part and giveaway six DIM t-shirts and our VERY last Blacksmith Shader to a few lucky Guardians. 
+We can all agree that the Cryptarchs can be bittersweet, bless their hearts... So the team at DIM will do our part and giveaway six DIM t-shirts and our VERY last Blacksmith Shader to a few lucky Guardians. 
 
 ![DIM Shirt](http://i.imgur.com/0cEPoNtb.jpg) ![Blacksmith Shader](http://i.imgur.com/SU2SDxVb.jpg)
 
-As excited as we are to pick the winners, we wanted to let you know that this giveaway also helps your fellow Guardians by spreading the word about DIM across the solar system.  There are many who still prepare their characters every day by walking up to a Vault.  DIM can help them play more Destiny, but only if you help us get the word out.
+Your tweets this week will light a path to help your fellow Guardians by spreading the word about DIM across the solar system. There are many who prepare their characters every day by walking up to a Vault. DIM can help them spent more of their time playing Destiny, but only if you help us get the word out. 
 
 There are two ways to enter, each with its own unique entry, so let's talk details.
 
