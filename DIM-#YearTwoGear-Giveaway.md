@@ -24,7 +24,7 @@ This is our favorite because we get to see so many Guardians.
 
 ![Destiny Item Manager](http://i.imgur.com/BW4g0ggm.png)
 
-Follow [@ThisIsDIM](http://twitter.com/ThisIsDIM) on Twitter and tweet a screenshot of your characters in DIM with the status, "**This is my #Destiny #YearTwoGear with @ThisIsDIM - Giveaway Info http://bit.ly/2cuO7jI**".  Here's an [example](https://twitter.com/RickCasey/status/639234613068603392).
+Follow [@ThisIsDIM](http://twitter.com/ThisIsDIM) on Twitter and tweet a screenshot of your characters in DIM with the status, "**This is my #Destiny #YearTwoGear with @ThisIsDIM - Giveaway Info http://bit.ly/2cuO7jI**".  Here's an [example](https://twitter.com/RickCasey/status/776069750426329088).
 
 ## Schedule
 
