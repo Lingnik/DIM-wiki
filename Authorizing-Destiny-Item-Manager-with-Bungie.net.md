@@ -4,17 +4,17 @@ Asking Permission
 
 The first time you use Destiny Item Manager, you will be redirected to Bungie.net to give DIM permission to access your data. You will see a view like this,
 
-![Authorization View](http://i.imgur.com/1jRRIuZl.png)
+![Authorization View](http://i.imgur.com/1jRRIuZ.png)
 
 You will see an application name, your user name, and the specific abilities that the application is requesting.  If you approve DIM to access your information, you'll be redirected back to Destiny Item Manager.  At that point, it's business as usual.  
 
 Going forward, you'll be able to see a list of applications that are using your information in your Bungie.net settings page, under 'Accounts & Linking'.  There, you'll have the ability to revoke application access at any time.  
 
-![Application List](http://i.imgur.com/3Bnnb8sl.png)
+![Application List](http://i.imgur.com/3Bnnb8s.png)
 
-![Activity List](http://i.imgur.com/Sj0tcSCl.png)
+![Activity List](http://i.imgur.com/Sj0tcSC.png)
 
-![Revoking an Application](http://i.imgur.com/Y4bFZwWl.png)
+![Revoking an Application](http://i.imgur.com/Y4bFZwW.png)
 
 This feature is also how DIM will be able to move from a Chrome Extension to a website.  We're working on this transition which will happen over time.  Our tentative steps to bring DIM closer to where you play are:
 
