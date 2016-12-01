@@ -29,4 +29,5 @@ This feature is also how DIM will be able to move from a Chrome Extension to a w
 There are large tasks and unknowns that have to be solved before we can complete this list, but this is the goal.  There's much to look forward to as continue to improve DIM.
 
 Until then Guardians, we'll see you in the Tower.
+
 The Team at DIM.
