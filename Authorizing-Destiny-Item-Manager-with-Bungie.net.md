@@ -20,7 +20,7 @@ Going forward, you'll be able to see a list of applications that are using your 
 
 This feature is also how DIM will be able to move from a Chrome Extension to a website.  We're working on this transition which will happen over time.  Our tentative steps to bring DIM closer to where you play are:
 
-1. Moving DIM's current experience to destinyitemmanager.com
+1. Moving DIM's current experience to http://destinyitemmanager.com
 2. Support Chrome on both Android and Desktop
 3. Support Safari on both iOS and Desktop
 4. Update UI to work on Phone and Tablet Resolutions
