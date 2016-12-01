@@ -1,4 +1,4 @@
-Bungie.net will release a new feature on their website that allows applications to ask your permission to interact with your data stored on their servers.  This includes the ability to interact with all of your items in Destiny, your Bungie.net profile, and your activity in Destiny.  This is a great step forward to securing access to your data and it gives you much more control over what happens to your data.
+Bungie.net will release in a new feature in a few weeks on their website that allows applications to ask your permission to interact with your data stored on their servers.  This includes the ability to interact with all of your items in Destiny, your Bungie.net profile, and your activity in Destiny.  This is a great step forward to securing access to your data and it gives you much more control over what happens to your data.
 
 # Asking Permission
 
