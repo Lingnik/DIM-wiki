@@ -16,6 +16,8 @@ Going forward, you'll be able to see a list of applications that are using your 
 
 ![Revoking an Application](http://i.imgur.com/Y4bFZwW.png)
 
+# Going Forward
+
 This feature is also how DIM will be able to move from a Chrome Extension to a website.  We're working on this transition which will happen over time.  Our tentative steps to bring DIM closer to where you play are:
 
 1. Moving DIM's current experience to destinyitemmanager.com
