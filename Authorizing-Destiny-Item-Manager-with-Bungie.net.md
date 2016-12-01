@@ -1,8 +1,8 @@
 Bungie.net will release a new feature on their website that allows applications to ask your permission to interact with your data stored on their servers.  This includes the ability to interact with all of your items in Destiny, your Bungie.net profile, and your activity in Destiny.  This is a great step forward to securing access to your data and it gives you much more control over what happens to your data.
 
-Asking Permission
+# Asking Permission
 
-The first time you use Destiny Item Manager, you will be redirected to Bungie.net to give DIM permission to access your data. You will see a view like this,
+If you ever used Facebook to log into a website, you'll be familiar with the following steps.  The first time you use Destiny Item Manager, you will be redirected to Bungie.net to give DIM permission to access your data. You will see a view like this,
 
 ![Authorization View](http://i.imgur.com/1jRRIuZ.png)
 
