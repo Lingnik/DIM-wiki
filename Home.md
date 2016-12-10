@@ -31,6 +31,8 @@ DIM is managed by a team of individuals from the Destiny community.
 (https://github.com/kyleshay)
 [![SunburnedGoose](https://avatars3.githubusercontent.com/u/984608?v=3&s=75)]
 (https://github.com/SunburnedGoose)
+[![bhollis](https://avatars1.githubusercontent.com/u/313208?v=3&s=75)]
+(https://github.com/bhollis)
 
 ## Developer Setup
 
