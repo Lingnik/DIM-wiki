@@ -12,7 +12,7 @@ The overall stat quality is also color coded for ease of use - blue if the item 
 
 ![](https://cloud.githubusercontent.com/assets/10524305/15340089/88923c36-1c3c-11e6-9274-3421b81fe262.png)
 
-The stat quality for an item is based on the estimated stats if you were to Infuse the item up to the maximum defense (currently 335) - the quality percentage for the item will remain (roughly) the same as you infuse it up.  
+The stat quality for an item is based on the estimated stats if you were to Infuse the item up to 335.  After 335, stats are locked and will not change with infusion.  The stat quality percentage grows more accurate as an item approaches 335 light, roughly 1% for every 15 light.
 
 There is some amount of error in this estimation because the Bungie API only provides rounded whole number values, which Destiny Item Manager uses to make its estimations. This should not impact the final infused quality by more than a couple of percentage points, and DIM tries to be conservative in its estimates so that if there is an error the final stat quality will be higher than the estimated quality. Destiny Item Manager currently only provides a stat quality estimate for items with 280 or higher defense, as the error margin increases the greater the difference between the current defense value and the maximum value.
 
