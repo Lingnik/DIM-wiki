@@ -8,7 +8,7 @@ The Process.
 
 1. **If you are not in the United States**, make sure the USPS can send a letter to your location for at most $1.15 at https://postcalc.usps.com/?country=10440.
 1. **Become a backer of DIM** with a minimum $5 contribution at [Open Collective](https://opencollective.com/dim).  
-    1. A one-time contribution is fine, but [Monthly support will enable new way so use DIM.](https://twitter.com/ThisIsDIM/status/876132618072358913).
+    1. A one-time contribution is fine, but [Monthly support will enable new ways so use DIM.](https://twitter.com/ThisIsDIM/status/876132618072358913).
     2. Contribution must be made between July 1st and August 1st.
 2. **Make sure you give a good email address** to reach out and get your shipping address.  I'll reach out in August.
 4. **Sit tight.**  Letters with our sticker will go out a few weeks after I close out the month and get your addresses together.
