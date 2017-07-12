@@ -6,8 +6,8 @@ This is open to all locations world wide as long as USPS will accept a letter to
 
 The Process.
 
-1. **If you are not in the United States**, make sure the USPS can send a letter to your location for at most $1.15 at https://postcalc.usps.com/?country=10440.
-1. **Become a backer of DIM** with a minimum $5 contribution at [Open Collective](https://opencollective.com/dim).  
+1. **If you are not in the United States**, make sure the [USPS](https://postcalc.usps.com/?country=10440) can send a letter to your location for at most $1.15.
+1. **[Become a backer of DIM](https://opencollective.com/dim)** with a minimum $5 contribution at Open Collective.  
     1. A one-time contribution is fine, but [Monthly support will enable new ways so use DIM.](https://twitter.com/ThisIsDIM/status/876132618072358913).
     2. Contribution must be made between July 1st, 2017 and August 1st, 2017.
 2. **Make sure you give a good email address** so we can reach out and get your shipping address in August.
