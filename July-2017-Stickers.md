@@ -15,4 +15,4 @@ The Process.
 
 Thank you all again for having interest in our efforts.  There are over 20 active contributors to DIM who want to make sure you can make the most of your game time.  DIM is our hobby and we're glad you enjoy it.
 
-❤️ The Team at DIM.
+The Team at DIM.
